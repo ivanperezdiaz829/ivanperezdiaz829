@@ -1,12 +1,24 @@
-# Hi there, I'm Iván Pérez Díaz 👋
+# ![Texto en movimiento](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=25&duration=2500&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=60&lines=Iván+Pérez+Díaz;Computer+Engineering+Student;AI+%26+Full-Stack+Developer)
 
 Welcome to my profile! I am a Computer Engineering Student and a passionate developer with a strong foundation in software engineering, artificial intelligence, and full-stack development. I love tackling complex problems, learning new technologies, and building efficient, scalable solutions.
 
-## 🌟 About Me
+## 👀 About me
+```python
+class IvanPerezDiaz:
+    def __init__(self):
+        self.education = ["👨🏼‍🎓 Degree in Computer Engineering at ULPGC (In progress) 👨🏼‍🎓"]
+        self.profession = "👨🏼‍💻 Computer Engineering Student & Developer"
+        self.country = "🌍 Spain"
+        self.city = "🌆 Las Palmas de Gran Canaria"
+        self.interests = ["Artificial Intelligence", "Machine Learning", "Full-Stack Development"]
+        self.hobbies = ["Coding", "Learning", "Computer Vision", "Hardware Architecture"]
+        
+    def actions(self):
+        while True:
+            tackle_complex_problems()
+            learn_new_technologies()
+            build_scalable_solutions()
 
-- 🔭 I’m currently working on: **DEII official web page**
-- 🌱 I’m currently learning: **Cybersecurity and hacking skills**
-- 🎯 My main interests lie in **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
 - 📫 How to reach me: **ivanperezdiaz829@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/iv%C3%A1n-p%C3%A9rez-d%C3%ADaz-b66332338/)**
 
 ---
