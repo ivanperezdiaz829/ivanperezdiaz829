@@ -39,20 +39,19 @@ class IvanPerezDiaz:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="45" alt="R" title="R">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="45" alt="Kotlin" title="Kotlin">
 </p>
+
 --- 
 
 ## 🌐 Web Development
-- **Frontend:**
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="45" alt="Angular" title="Angular">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" alt="HTML5" title="HTML5">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" alt="CSS3" title="CSS3">
   </p>
-
-- **Backend:**
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" alt="NodeJS" title="NodeJS">
   </p>
+  
 ---
 
 ## 🤖 AI / Machine Learning & Data Science
@@ -65,6 +64,7 @@ class IvanPerezDiaz:
   <img src="https://img.shields.io/badge/MediaPipe-orange" alt="MediaPipe">
   <img src="https://img.shields.io/badge/Seaborn-blue" alt="Seaborn">
 </p>
+
 ---
 
 ## 🗄️ Databases
@@ -81,30 +81,18 @@ class IvanPerezDiaz:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" alt="AWS" title="AWS">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" alt="Docker" title="Docker">
 </p>
+
 ---
 
 ## ⚙️ Software & Other Tools
-- **Design & Management:**
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" alt="Figma" title="Figma">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="45" alt="Trello" title="Trello">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="45" alt="Excel" title="Excel">
-  </p>
-  
-- **Engineering Tools:**
-  <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/AutoCAD_logo.svg" width="45" alt="AutoCAD" title="AutoCAD">
-  </p>
-  
-- **OS & Version Control:**
-  <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" alt="Linux" title="Linux">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="45" alt="Windows" title="Windows">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git" title="Git">
-  </p>
-  
-- **Hardware:**
-  <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="45" alt="Arduino" title="Arduino">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Intel_logo_%282022%29.svg" width="45" alt="Intel" title="Intel">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/RISC-V-logo.svg" width="45" alt="RISC-V" title="RISC-V">
