@@ -1,24 +1,61 @@
-<h1 align="center">Hi I'm Iván Pérez Díaz 🔥</h1>
-<h3 align="center">Computer Engineer interested in AI</h3>
+# Hi there, I'm Iván Pérez Díaz 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivanperezdiaz829" alt="ivanperezdiaz829" /></a> </p>
+Welcome to my profile! I am a Computer Engineering Student and a passionate developer with a strong foundation in software engineering, artificial intelligence, and full-stack development. I love tackling complex problems, learning new technologies, and building efficient, scalable solutions.
 
-- I’m currently working on [Official-DEII-web-page](https://github.com/deii-ulpgc-tecnologia)
+## 🌟 About Me
 
-- 📫 How to reach me **ivanperezdiaz829@gmail.com**
+- 🔭 I’m currently working on: **DEII official web page**
+- 🌱 I’m currently learning: **Cybersecurity and hacking skills**
+- 🎯 My main interests lie in **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
+- 📫 How to reach me: **ivanperezdiaz829@gmail.com** | **https://www.linkedin.com/in/iv%C3%A1n-p%C3%A9rez-d%C3%ADaz-b66332338/**
 
-- ⚡ Fun fact **I'm a Full Stack developer because I enjoy all the processes and I couldn't decide.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/iván pérez díaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iván pérez díaz" height="30" width="40" /></a>
-<a href="https://discord.gg/ivanmaster829" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ivanmaster829" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack & Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 💻 Programming Languages
+`C` | `C++` | `Python` | `Java` | `JavaScript` | `TypeScript` | `R` | `Kotlin`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanperezdiaz829&show_icons=true&locale=en&layout=compact" alt="ivanperezdiaz829" /></p>
+### 🌐 Web Development
+- **Frontend:** Angular, HTML5, CSS3
+- **Backend:** Node.js
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanperezdiaz829&show_icons=true&locale=en" alt="ivanperezdiaz829" /></p>
+### 🤖 AI / Machine Learning & Data Science
+`TensorFlow` | `PyTorch` | `MediaPipe` | `OpenCV` | `Pandas` | `Seaborn` | `scikit-learn`
 
+### 🗄️ Databases
+`Oracle SQL` | `MySQL` | `PostgreSQL` | `SQLite3`
+
+### ☁️ Cloud Computing & DevOps
+`AWS` | `Docker`
+
+### ⚙️ Software & Other Tools
+- **Design & Management:** Figma, Trello, Excel
+- **Engineering Tools:** AutoCAD (CFD)
+- **OS & Version Control:** Linux, Windows, Git
+- **Hardware:** Arduino, Intel, RISC-V
+
+---
+
+## 🚀 Featured Projects by Area
+
+Here are some of my top projects demonstrating my skills across different domains:
+
+### 🧠 Artificial Intelligence, Machine Learning & Computer Vision
+* **[rPPG-Remote-Photoplethysmography](https://github.com/ivanperezdiaz829/rPPG-Remote-Photoplethysmography)** - Computer vision project for real-time vital sign (heart rate and respiratory rate) extraction using a webcam. The system detects micro-variations in skin color over time using the POS (Plane-Orthogonal-to-Skin) algorithm and digital signal processing (Butterworth and FFT filters). 100% local processing (Privacy by Design) achieved a Mean Absolute Error (MAE) of only 1.01 BPM in validation tests against reference devices. (Technologies: Python, OpenCV, MediaPipe, NumPy, SciPy).
+* **[Computer Vision](https://github.com/ivanperezdiaz829/Computer_Vision)** - Computer vision projects utilizing OpenCV, MediaPipe, PyTorch, YOLO, among others for specific task.
+* **[Traffic Sign Classifier & NN Comparison](https://github.com/ivanperezdiaz829/Neural_Network)** - Computer Vision project focused on traffic sign classification. In it, I develop and analyze the performance of different Neural Network architectures: from simple models (MLP) to CNNs created from scratch and advanced models using Transfer Learning (ResNet50). It also includes the implementation of YOLO11 for video signal detection. (Technologies: PyTorch, Ultralytics/YOLO, Pandas, Scikit-learn)..
+
+### 💻 Full-Stack & Web Development
+* **[DietApp](https://github.com/ivanperezdiaz829/Diet-App)** - A comprehensive application using SQL as its database, with Kotlin and Python, that creates a complete diet plan taking into account daily macronutrients to select meals. Additionally, all users can review their macronutrient history on a calendar and compare it with various charts.
+* **[DEII official web](https://github.com/deii-ulpgc-tecnologia)** - Ongoing project for the official DEII website, using Angular for the frontend and PostgreSQL for the backend. In this project, I am the frontend coordinator and also work as a full-stack developer, connecting all frontend team members with backend developments.
+
+### ☁️ Cloud & Architecture
+* **[Enterprise Management Infrastructure](https://github.com/ivanperezdiaz829/Cloud-Computing-AWS)** - A containerized application using Docker, deployed on AWS with two types of infrastructure models, one built with a monolithic model and the other built with lambda functions (one per task), in addition a price comparison is made over time to see the most competitive option depending on the requirements of the environment.
+* **[Serverless Data Lake & ETL Pipeline en AWS](https://github.com/ivanperezdiaz829/Cloud-Computing-AWS-2)** - Cloud computing project focused on the design and deployment of a serverless architecture for a complete data pipeline. I implemented real-time data ingestion using Amazon Kinesis Data Streams and Firehose. Additionally, on-the-fly transformations with AWS Lambda and storage in a structured data lake on Amazon S3 were included. The data (a laptop inventory in JSON format) was processed using Apache Spark-based ETL jobs with AWS Glue, resolving type inconsistencies (Schema Evolution), and finally transformed into columnar format (Parquet) and queried using SQL on Amazon Athena. (Technologies: AWS S3, Kinesis, Glue, Athena, Lambda, Python, PySpark, PowerShell).
+
+### 🔌 Hardware & Low-Level Programming
+* **[RISC-V Architecture](https://github.com/ivanperezdiaz829/riscv-fpga-processor)** - This project have like principal objective, the creation and evaluation of a pipeline and Scalar RISCV processor (Intel Quartus II, DE0-Nano, Visual Studio Code IDE (Verilog). Aditionally, it will be tested in various task in the automotive and antificially intelligence fields.
+
+---
+*Feel free to explore my repositories and ask me wherever you want about them!*
