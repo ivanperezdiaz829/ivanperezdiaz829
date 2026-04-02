@@ -7,7 +7,7 @@ Welcome to my profile! I am a Computer Engineering Student and a passionate deve
 - 🔭 I’m currently working on: **DEII official web page**
 - 🌱 I’m currently learning: **Cybersecurity and hacking skills**
 - 🎯 My main interests lie in **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
-- 📫 How to reach me: **ivanperezdiaz829@gmail.com** | **https://www.linkedin.com/in/iv%C3%A1n-p%C3%A9rez-d%C3%ADaz-b66332338/**
+- 📫 How to reach me: **ivanperezdiaz829@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/iv%C3%A1n-p%C3%A9rez-d%C3%ADaz-b66332338/)**
 
 ---
 
