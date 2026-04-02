@@ -1,4 +1,6 @@
-# ![Texto en movimiento](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=25&duration=2500&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=60&lines=Iván+Pérez+Díaz;Computer+Engineering+Student;AI+%26+Full-Stack+Developer)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=25&duration=2500&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=60&lines=Iván+Pérez+Díaz;Computer+Engineering+Student;AI+%26+Full-Stack+Developer" alt="Texto en movimiento" />
+</p>
 
 Welcome to my profile! I am a Computer Engineering Student and a passionate developer with a strong foundation in software engineering, artificial intelligence, and full-stack development. I love tackling complex problems, learning new technologies, and building efficient, scalable solutions.
 
