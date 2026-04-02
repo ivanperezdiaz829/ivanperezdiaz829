@@ -4,7 +4,7 @@
 
 Welcome to my profile! I am a Computer Engineering Student and a passionate developer with a strong foundation in software engineering, artificial intelligence, and full-stack development. I love tackling complex problems, learning new technologies, and building efficient, scalable solutions.
 
-## 🔍 About me
+# 🔍 About me
 ```python
 class IvanPerezDiaz:
     def __init__(self):
@@ -47,8 +47,6 @@ class IvanPerezDiaz:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="45" alt="Angular" title="Angular">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" alt="HTML5" title="HTML5">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" alt="CSS3" title="CSS3">
-  </p>
-  <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" alt="NodeJS" title="NodeJS">
   </p>
   
@@ -74,6 +72,7 @@ class IvanPerezDiaz:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" title="PostgreSQL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" alt="SQLite" title="SQLite">
 </p>
+
 ---
 
 ## ☁️ Cloud Computing & DevOps
