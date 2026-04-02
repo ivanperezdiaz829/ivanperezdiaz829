@@ -39,6 +39,7 @@ class IvanPerezDiaz:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="45" alt="R" title="R">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="45" alt="Kotlin" title="Kotlin">
 </p>
+--- 
 
 ## 🌐 Web Development
 - **Frontend:**
@@ -52,6 +53,7 @@ class IvanPerezDiaz:
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" alt="NodeJS" title="NodeJS">
   </p>
+---
 
 ## 🤖 AI / Machine Learning & Data Science
 <p>
@@ -63,6 +65,7 @@ class IvanPerezDiaz:
   <img src="https://img.shields.io/badge/MediaPipe-orange" alt="MediaPipe">
   <img src="https://img.shields.io/badge/Seaborn-blue" alt="Seaborn">
 </p>
+---
 
 ## 🗄️ Databases
 <p>
@@ -71,12 +74,14 @@ class IvanPerezDiaz:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" title="PostgreSQL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" alt="SQLite" title="SQLite">
 </p>
+---
 
 ## ☁️ Cloud Computing & DevOps
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" alt="AWS" title="AWS">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" alt="Docker" title="Docker">
 </p>
+---
 
 ## ⚙️ Software & Other Tools
 - **Design & Management:**
