@@ -40,7 +40,7 @@ class IvanPerezDiaz:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="45" alt="Kotlin" title="Kotlin">
 </p>
 
---- 
+---
 
 ## 🌐 Web Development
   <p>
@@ -59,8 +59,8 @@ class IvanPerezDiaz:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="45" alt="OpenCV" title="OpenCV">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" alt="Pandas" title="Pandas">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45" alt="scikit-learn" title="scikit-learn">
-  <img src="https://img.shields.io/badge/MediaPipe-orange" alt="MediaPipe">
-  <img src="https://img.shields.io/badge/Seaborn-blue" alt="Seaborn">
+  <img src="https://www.google.com/s2/favicons?sz=64&domain=mediapipe.dev" width="45" alt="MediaPipe" title="MediaPipe">
+  <img src="https://www.google.com/s2/favicons?sz=64&domain=seaborn.pydata.org" width="45" alt="Seaborn" title="Seaborn">
 </p>
 
 ---
@@ -84,17 +84,26 @@ class IvanPerezDiaz:
 ---
 
 ## ⚙️ Software & Other Tools
+- **Design & Management:**
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" alt="Figma" title="Figma">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="45" alt="Trello" title="Trello">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="45" alt="Excel" title="Excel">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/AutoCAD_logo.svg" width="45" alt="AutoCAD" title="AutoCAD">
+    <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" alt="Excel" title="Excel">
+  </p>
+
+- **OS & Version Control and Tools:**
+  <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" alt="Linux" title="Linux">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="45" alt="Windows" title="Windows">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git" title="Git">
+    <img src="https://cdn.simpleicons.org/autocad/E62429" width="45" alt="AutoCAD" title="AutoCAD">
+  </p>
+  
+- **Hardware:**
+  <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="45" alt="Arduino" title="Arduino">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Intel_logo_%282022%29.svg" width="45" alt="Intel" title="Intel">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/RISC-V-logo.svg" width="45" alt="RISC-V" title="RISC-V">
+    <img src="https://cdn.simpleicons.org/intel/0071C5" width="45" alt="Intel" title="Intel">
+    <img src="https://cdn.simpleicons.org/riscv/2D327D" width="45" alt="RISC-V" title="RISC-V">
   </p>
 
 ---
