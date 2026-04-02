@@ -18,7 +18,7 @@ class IvanPerezDiaz:
             tackle_complex_problems()
             learn_new_technologies()
             build_scalable_solutions()
-``
+```
 
 - 📫 How to reach me: **ivanperezdiaz829@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/iv%C3%A1n-p%C3%A9rez-d%C3%ADaz-b66332338/)**
 
