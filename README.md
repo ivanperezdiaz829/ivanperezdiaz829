@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=40&duration=2500&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=60&lines=Iván+Pérez+Díaz;Computer+Engineering+Student;AI+%26+Full-Stack+Developer" alt="Texto en movimiento" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=40&duration=2500&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=60&lines=Iván+Pérez+Díaz;Computer+Engineering+Student;AI+%26+Cloud+%26+Full-Stack+Developer" alt="Texto en movimiento" />
 </p>
 
 Welcome to my profile! I am a Computer Engineering Student and a passionate developer with a strong foundation in software engineering, artificial intelligence, and full-stack development. I love tackling complex problems, learning new technologies, building solutions with computer vision and efficient, scalable solutions.
@@ -122,7 +122,7 @@ Here are some of my top projects demonstrating my skills across different domain
 
 ---
 
-### 💻 Full-Stack & Web Development
+## 💻 Full-Stack & Web Development
 
 * **[DietApp](https://github.com/ivanperezdiaz829/Diet-App)** - A comprehensive application using SQL as its database, with Kotlin and Python, that creates a complete diet plan taking into account daily macronutrients to select meals. Additionally, all users can review their macronutrient history on a calendar and compare it with various charts.
 
